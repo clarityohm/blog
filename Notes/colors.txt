@@ -1,2 +1,13 @@
-#ff680d
-#f7a244
+Text color: RGB(249, 249, 249)
+Background color: RGB(128, 132, 141)
+Additional color(s): RGB(51, 47, 48), RGB(179, 180, 184)
+
+Text color: RGB(14, 21, 21)
+Background color: RGB(236, 238, 240)
+Additional color(s): RGB(124, 124, 125), RGB(148, 150, 152)
+
+#0e1515
+#eceef0
+
+#7c7c7d
+#949698
